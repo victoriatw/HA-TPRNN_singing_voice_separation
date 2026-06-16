@@ -1,5 +1,5 @@
 # HA-TPCRN Singing Voice Separation Demo
-This repository provides the demo page for the paper:
+This repository provides the demo page for the paper.
 
 ## Harmonic-aware Tri-path Convolution Recurrent Network for Singing Voice Separation
 ### Abstract
@@ -8,7 +8,7 @@ Singing voice separation aims to decompose a music mixture into vocal and accomp
 ### Publication
 Shen, Y. L., Lai, Y. C., & Chi, T. S. (2023)
 Harmonic-aware Tri-path Convolution Recurrent Network for Singing Voice Separation
-JASA Express Letters, 3(7), 074801.
+JASA Express Letters, 3(7), 074801.<br>
 DOI: https://doi.org/10.1121/10.0019997
 
 ### Demo
